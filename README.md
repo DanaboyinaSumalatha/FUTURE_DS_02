@@ -39,6 +39,10 @@ The objective is to identify:
 
 ---
 
+## 📷 Dashboard Preview
+
+![Dashboard](dashboard-preview.png)
+
 ## 👩‍💻 Internship Task
 Future Interns — Data Science & Analytics Internship  
 Task 2: Customer Retention & Churn Analysis
