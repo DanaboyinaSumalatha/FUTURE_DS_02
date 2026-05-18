@@ -3,6 +3,8 @@
 ## 📌 Project Overview
 This project analyzes customer churn behavior and retention trends for a subscription-based business using Power BI.
 
+The dataset was preprocessed and cleaned using Python before building the Power BI dashboard.
+
 The objective is to identify:
 - Churn patterns
 - Customer retention drivers
@@ -10,9 +12,11 @@ The objective is to identify:
 - Business recommendations to reduce churn
 
 ---
+
 ## 🛠 Tools Used
+- Python (pandas, NumPy)
 - Power BI
-- Power Query (for basic data cleaning and transformation)
+- Power Query
 
 ---
 
@@ -34,7 +38,9 @@ The objective is to identify:
 
 ## 📁 Files Included
 - Power BI Dashboard (.pbix)
-- Dataset (.csv)
+- Raw Dataset (.csv)
+- Cleaned Dataset (.csv)
+- Python Data Cleaning Script (.py)
 - Dashboard Screenshot
 
 ---
@@ -42,6 +48,8 @@ The objective is to identify:
 ## 📷 Dashboard Preview
 
 ![Dashboard](dashboard-preview.png)
+
+---
 
 ## 👩‍💻 Internship Task
 Future Interns — Data Science & Analytics Internship  
